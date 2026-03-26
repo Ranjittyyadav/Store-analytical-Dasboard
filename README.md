@@ -74,3 +74,13 @@ Compatibility: Excel 2016+
 4. Test all slicers
 5. Submit PR 🎉
 
+   ## 📷 Screenshots Folder
+   screenshots/
+├── dashboard.png (main view)
+├── top-states.png
+├── channel-share.png
+└── monthly-trends.png
+
+   <img width="1206" height="483" alt="Screenshot 2026-03-26 at 2 37 58 PM" src="https://github.com/user-attachments/assets/248e0f2d-7435-4959-8029-d0273006ceab" />
+
+
